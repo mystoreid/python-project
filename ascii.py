@@ -20,7 +20,7 @@ COLORS = {
 }
 
 BORDER = "═" * 60
-HEADER = f"""
+HEADER = fr"""
 {COLORS['cyan']}╔══════════════════════════════════════════════════════════╗
 ║{COLORS['yellow']}          ____   _   _   _   _   _____   _____          {COLORS['cyan']}║
 ║{COLORS['yellow']}         / ___| | | | | | \ | | |_   _| |_   _|         {COLORS['cyan']}║
